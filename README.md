@@ -22,7 +22,7 @@
 
 ## Использованные матреиалы
 1. [статья](https://giper.livejournal.com/383365.html)
-2. [построенный маршрут]()
+2. [построенный маршрут](https://gist.github.com/idmitriev99/e215f3e381e126b06d0c553a7b245db0)
 3. *изображение маршрута:*  
-![abc](imag.png)
+![abc](imag.PNG)
 
